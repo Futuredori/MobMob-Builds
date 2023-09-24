@@ -1,3 +1,6 @@
+1.0.9 - Hotfix 9
+	did stuff
+
 1.0.8 - Hotfix 8
 	Fixed "the procedure entry point decode URI could not be located in the dynamic link library" on windows devices
 	Fixed some Spanish Mexico translations
